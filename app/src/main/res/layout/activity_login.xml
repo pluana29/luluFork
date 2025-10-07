@@ -63,6 +63,7 @@
         android:focusable="true"
         app:layout_constraintTop_toBottomOf="@id/button_login"
         app:layout_constraintStart_toStartOf="parent"
+<<<<<<< Updated upstream
         app:layout_constraintEnd_toEndOf="parent"
         android:layout_marginTop="16dp"/>
 
@@ -77,4 +78,8 @@
         app:layout_constraintTop_toBottomOf="@id/registerLink"
         tools:ignore="MissingConstraints" />
 
+=======
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="16dp"/>
+>>>>>>> Stashed changes
 </androidx.constraintlayout.widget.ConstraintLayout>
